@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mbadr12
-- 👀 I’m interested in Embedded Systems Engineerin
+- 👀 I’m interested in Embedded Systems Engineering
 - 🌱 I’m currently learning interfacing with different Microcontrollers
 - 💞️ I’m looking to collaborate on embedded software
 - 📫 How to reach me (+20) 1008078202
